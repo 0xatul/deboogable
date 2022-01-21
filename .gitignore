@@ -1,0 +1,7 @@
+﻿.idea/
+.vs/
+obj/
+bin/
+/*.json
+/*.cache
+/*.user
